@@ -372,7 +372,7 @@ reRunArchive(){
 tput cup 2 20
 tput rev
 tput bold
-echo " WELCOME TO LINUSMAN "
+echo " WELCOME TO ARCRON "
 tput sgr0
 
 # Displaying initial options to choose from at the start of the program
